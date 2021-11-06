@@ -1,2 +1,1 @@
-# devopslab
-laboratório devops
+### Aplicação simples em Python/Flask com teste usando Unittest integrado ao Travis-CI fazendo deploy ao Heroku para exercitar uma Pipeline DevOps
